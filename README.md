@@ -63,7 +63,7 @@ src/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/simple-todo-list.git
+git clone https://github.com/dougl-dias/react-simple-todo-list.git
 
 # Acesse a pasta
 cd simple-todo-list
