@@ -4,7 +4,14 @@ Uma aplicação simples de gerenciamento de tarefas desenvolvida com React, com 
 
 ---
 
-## Demonstração
+## Demo
+
+🔗 **Acesse o projeto:**  
+https://react-simple-todo-list-wine.vercel.app
+
+---
+
+## Preview
 
 ![Preview do projeto](./src/assets/preview.png)
 
