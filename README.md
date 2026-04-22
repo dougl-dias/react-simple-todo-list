@@ -6,7 +6,7 @@ Uma aplicação simples de gerenciamento de tarefas desenvolvida com React, com 
 
 ## Demonstração
 
-![Preview do projeto](./assets/preview.png)
+![Preview do projeto](./src/assets/preview.png)
 
 ---
 
