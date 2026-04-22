@@ -70,7 +70,7 @@ const App = () => {
               </div>
             </form>
 
-            {!formEdit && (
+            {!formEdit && tasks.length > 0 && (
               <>
                 <div>
                   <h2 className='font-semibold text-slate-800'>Tarefas:</h2>
