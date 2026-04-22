@@ -23,7 +23,7 @@ const TaskItem = ({ task, onToggle, onView, onEdit, onDelete }) => {
 
       <div className='flex items-center gap-1'>
         <Button
-          variant={completed ? 'success' : 'secondary'}
+          variant={completed ? 'secondary' : 'success'}
           shape='toIcon'
           title={completed ? 'Desmarcar como concluída' : 'Marcar como concluído'}
           onClick={() => onToggle(id)}
